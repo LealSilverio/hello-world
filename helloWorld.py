@@ -1,5 +1,6 @@
 from PIL import Image
 
-helloWorld = Image.open("hello-world/helloWorld.png")
+print("Hello World!")
+
+helloWorld = Image.open("hello-world/hello-world.jpg")
 helloWorld.show()
-# print("Hello World!")
